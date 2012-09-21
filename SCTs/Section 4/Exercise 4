@@ -1,0 +1,5 @@
+if (code['script.js'].indexOf("parseInt" > -1) {
+    return "Did you replace ALL of the parseInt()s with parseFloat()s?"
+}
+
+return true
