@@ -9,3 +9,5 @@ $expect('#side > a').to.have.css('font-size', '32px', "Did you set the font-size
 $expect('#side > a').to.have.css('padding', '10px 10px 10px 10px', "Did you set the padding of #side > a to 10px?");
 $expect('#side > a').to.have.css('margin', '5px 5px 5px 5px', "Did you set the margin of #side > a to 5px?");
 $expect('#side > a').to.have.css('cursor', 'pointer', "Did you set the cursor of #side > a to pointer?");
+
+return true;
