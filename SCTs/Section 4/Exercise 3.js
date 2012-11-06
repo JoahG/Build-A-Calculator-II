@@ -7,6 +7,7 @@ if ($("#total").text() !== "3") {
 
 $("#total").text("0");
 $("#numbers>a:nth-child(3)").click();
+
 $("#sq").click();
 $("#numbers>a:nth-child(3)").click();
 $("#equals").click();
